@@ -1,0 +1,42 @@
+_repo: Narrative-of-a-Survey-of-the-Intertropical-and-Western-Coasts-of-Australia--13-Performed-betw__12046
+_version: 0.0.1
+creator:
+  author:
+    agent_name: King, Philip Parker
+    alias: King, Phillip Parker
+    birthdate: 1791
+    deathdate: 1856
+    gutenberg_agent_id: '3879'
+    url: http://www.gutenberg.org/2009/agents/3879
+    wikipedia: http://en.wikipedia.org/wiki/Philip_Parker_King
+description: 'Volume 1: Introduction; 1. Intended mode of proceeding, and departure
+  from Po Jackson; 2. Examination of Rowley''s Shoals, and passage to the North Coast;
+  3. Tansactions at Coepang; 4. Visit to Van Diemen''s Land, and examination of the
+  entrance of Macquarie Harbour; 5. Departure from Port Jackson, and commence a running
+  survey of the East Coast; 6. Transactions at Endeavour River, and intercourse with
+  the natives; 7. Cross the Gulf of Carpentaria, and resume the survey of the North
+  Coast at Wessel''s Islands; 8. Examination of the coast between Cape Londonderry
+  and Cape Voltaire, containing the surveys of Sir Graham Moore''s Islands, Eclipse
+  Islands, Vansittart Bay, Admiralty Gulf, and Port Warrender; 9. Equipment for the
+  third voyage; 10. Cross the Gulf of Carpenteria, and anchor at Goulburn''s South
+  Island -- Volume 2: 1. Survey upon the Mermaid; 2. Passage from Cape Van Diemen
+  to Careening Bay; 3. Departure from Port Louis; 4. Leave King George the Third''s
+  Sound, and commence the survey of the West Coast at Rottnest Island; 5. The Bathurst
+  sails for England Appendix.'
+gutenberg_bookshelf: Australia
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12046'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DU'
+- !lcsh 'Australia -- Description and travel'
+- !lcsh 'Natural history -- Australia'
+- GITenberg
+title: "Narrative of a Survey of the Intertropical and Western Coasts of Australia\r\
+  \nPerformed between the years 1818 and 1822 — Volume 2"
+url: http://www.gutenberg.org/ebooks/12046
