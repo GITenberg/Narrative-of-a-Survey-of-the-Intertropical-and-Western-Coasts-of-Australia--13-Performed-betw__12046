@@ -1,5 +1,8 @@
 _repo: Narrative-of-a-Survey-of-the-Intertropical-and-Western-Coasts-of-Australia--13-Performed-betw__12046
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: King, Philip Parker
@@ -23,6 +26,8 @@ description: 'Volume 1: Introduction; 1. Intended mode of proceeding, and depart
   to Careening Bay; 3. Departure from Port Louis; 4. Leave King George the Third''s
   Sound, and commence the survey of the West Coast at Rottnest Island; 5. The Bathurst
   sails for England Appendix.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12046#Narrative-of-a-Survey-of-the-Intertropical-and-Western-Coasts-of-Australia--13-Performed-betw_
 gutenberg_bookshelf: Australia
 gutenberg_issued: '2004-04-01'
 gutenberg_type: Text
